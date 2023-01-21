@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nikgan23
+- 👋 Hi, I’m Nikolas
 - 👀 I’m interested in learning how to become a programmer
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate sometime in the future, at the moment just dipping my toes into programming :)) 
